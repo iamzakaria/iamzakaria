@@ -35,5 +35,3 @@ I’m an SQA Engineer passionate about building reliable, high-quality software 
 - Email: [zakariashagorr@gmail.com](mailto:zakariashagorr@gmail.com)  
 - LinkedIn: [linkedin.com/in/zakariashagor](https://www.linkedin.com/in/zakariashagor/)  
 - Phone: +8801307283035
-
-"Quality is not an act, it’s a habit." – Aristotle
