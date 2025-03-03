@@ -27,9 +27,9 @@ I’m an SQA Engineer passionate about building reliable, high-quality software 
   ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-6A5ACD?style=flat&logo=manual-testing&logoColor=white)  
 
 ## 🛠️ Experience
-- **SQA Engineer @ EDGE Project, BCC** (Feb 2024 - Present): Designed test strategies and automation scripts.  
-- **SQA Engineer @ SoftBD Limited** (2021 - 2024): Built API and performance testing workflows.  
-- **Jr. SQA Engineer @ Genuity Systems** (2020 - 2021): Resolved 90% of pre-release issues.
+- **SQA Engineer @ EDGE Project, Bangladesh Computer Council, ICT Division** (Feb 2024 - Present)  
+- **SQA Engineer @ SoftBD Limited** (2021 - 2024) 
+- **Jr. SQA Engineer @ Genuity Systems Ltd.** (2020 - 2021)
 
 ## 📬 Let’s Connect
 - Email: [zakariashagorr@gmail.com](mailto:zakariashagorr@gmail.com)  
