@@ -1,34 +1,77 @@
 # 👋 Hello, I’m Md. Zakaria Shagor!
 I’m an SQA Engineer passionate about building reliable, high-quality software through test automation and rigorous testing. With expertise in Python, Java, Selenium, Playwright, and more, I ensure applications perform flawlessly.
 
-## 🔧 Skills
-- **Languages**:  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)  
+## ✨ Tech Stack
 
-- **Testing Tools**:  
-  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)  
-  ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)  
-  ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)  
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-  ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apache-jmeter&logoColor=white)  
-  ![Locust](https://img.shields.io/badge/Locust-3CB371?style=flat&logo=locust&logoColor=white)  
+<div align="center">
 
-- **Other**:  
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-  ![CI/CD](https://img.shields.io/badge/CI%2FCD-0DB7ED?style=flat&logo=gitlab&logoColor=white)  
-  ![API Testing](https://img.shields.io/badge/API%20Testing-FF4500?style=flat&logo=rest-api&logoColor=white)  
-  ![Load Testing](https://img.shields.io/badge/Load%20Testing-4682B4?style=flat&logo=load-testing&logoColor=white)  
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
-  ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-6A5ACD?style=flat&logo=manual-testing&logoColor=white)  
+<!-- Programming Languages -->
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+</a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+</a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+</a>
+
+<!-- Testing Tools -->
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="50" height="50"/>
+</a>
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+  <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="50" height="50"/>
+</a>
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" alt="Cypress" width="50" height="50"/>
+</a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
+</a>
+<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://jmeter.apache.org/images/logo.svg" alt="JMeter" width="50" height="50"/>
+</a>
+<a href="https://locust.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/184/184980.png" alt="Locust" width="50" height="50"/>
+</a>
+<a href="https://docs.pytest.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="Pytest" width="50" height="50"/>
+</a>
+
+<!-- CI/CD & Other Tools -->
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+</a>
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
+</a>
+
+<!-- MySQL Logo -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+</a>
+
+</div>
 
 ## 🛠️ Experience
 - **SQA Engineer @ EDGE Project, Bangladesh Computer Council, ICT Division** (Feb 2024 - Present)  
-- **SQA Engineer @ SoftBD Limited** (2021 - 2024) 
+- **SQA Engineer @ SoftBD Limited** (2021 - 2024)  
 - **Jr. SQA Engineer @ Genuity Systems Ltd.** (2020 - 2021)
 
 ## 📬 Let’s Connect
