@@ -64,7 +64,7 @@ I’m an SQA Engineer passionate about building reliable, high-quality software 
 ## 🛠️ Experience
 - **SQA Engineer @ EDGE Project, Bangladesh Computer Council, ICT Division** (Feb 2024 - Present)  
 - **SQA Engineer @ SoftBD Limited** (2021 - 2024)  
-- **Jr. SQA Engineer @ Genuity Systems Ltd.** (2020 - 2021)
+- **IT Support Professional @ Executive Machines Limited** (2019 - 2020)
 
 ## 📬 Let’s Connect
 - Email: [zakariashagorr@gmail.com](mailto:zakariashagorr@gmail.com)  
