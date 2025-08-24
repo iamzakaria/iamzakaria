@@ -15,12 +15,6 @@ I’m an SQA Engineer passionate about building reliable, high-quality software 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
 </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/>
-</a>
-<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/>
-</a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/>
 </a>
@@ -62,9 +56,10 @@ I’m an SQA Engineer passionate about building reliable, high-quality software 
 </div>
 
 ## 🛠️ Experience
+- **Software Quality Engineer @ Maven24 Digital Inc.** (Feb 2024 - Present)  
 - **SQA Engineer @ EDGE Project, Bangladesh Computer Council, ICT Division** (Feb 2024 - Present)  
 - **SQA Engineer @ SoftBD Limited** (2021 - 2024)  
-- **IT Support Professional @ Executive Machines Limited** (2019 - 2020)
+- **IT Support Executive @ Executive Machines Limited** (2019 - 2020)
 
 ## 📬 Let’s Connect
 - Email: [zakariashagorr@gmail.com](mailto:zakariashagorr@gmail.com)  
