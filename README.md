@@ -35,9 +35,6 @@ I’m an SQA Engineer passionate about building reliable, high-quality software 
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://jmeter.apache.org/images/logo.svg" alt="JMeter" width="30" height="30"/>
 </a>
-<a href="https://locust.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/184/184980.png" alt="Locust" width="30" height="30"/>
-</a>
 <a href="https://docs.pytest.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="Pytest" width="30" height="30"/>
 </a>
