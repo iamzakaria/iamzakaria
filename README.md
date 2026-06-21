@@ -1,64 +1,57 @@
-# 👋 Hello, I’m Md. Zakaria Shagor!
-I’m an SQA Engineer passionate about building reliable, high-quality software through test automation and rigorous testing. With expertise in Python, Java, Selenium, Playwright, and more, I ensure applications perform flawlessly.
+# Hi, I'm Zakaria 👋
 
-## ✨ Tech Stack
+**SQA Engineer | Test Automation Specialist**
 
-<div align="left">
+I build automation frameworks and quality systems that help teams ship faster without sacrificing release confidence. 5+ years testing web and mobile platforms across fintech, education, and government-scale systems.
 
-<!-- Programming Languages -->
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
-</a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
-</a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/>
-</a>
+---
 
-<!-- Testing Tools -->
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="30" height="30"/>
-</a>
-<a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-  <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="30" height="30"/>
-</a>
-<a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" alt="Cypress" width="30" height="30"/>
-</a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30"/>
-</a>
-<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://jmeter.apache.org/images/logo.svg" alt="JMeter" width="30" height="30"/>
-</a>
-<a href="https://docs.pytest.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="Pytest" width="30" height="30"/>
-</a>
+### 🔧 What I work with
 
-<!-- CI/CD & Other Tools -->
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="30" height="30"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
-</a>
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
-</a>
+**Automation & Testing**
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat-square&logo=apache-jmeter&logoColor=white)
 
-</div>
+**Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 🛠️ Experience
-- **Software Quality Engineer @ Maven24 Digital Inc.** (Feb 2024 - Present)  
-- **SQA Engineer @ EDGE Project, Bangladesh Computer Council, ICT Division** (Feb 2024 - Present)  
-- **SQA Engineer @ SoftBD Limited** (2021 - 2024)  
-- **IT Support Executive @ Executive Machines Limited** (2019 - 2020)
+**Tools & Workflow**
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📬 Let’s Connect
-- Email: [zakariashagorr@gmail.com](mailto:zakariashagorr@gmail.com)  
-- LinkedIn: [linkedin.com/in/zakariashagor](https://www.linkedin.com/in/zakariashagor/)  
-- Phone: +8801307283035
+---
+
+### 🎯 What I focus on
+
+- Designing test automation frameworks from scratch (Playwright, Pytest, Pandas)
+- API and backend validation at scale
+- Reducing regression cycles and stabilizing release quality
+- Translating business requirements into structured, maintainable test coverage
+
+---
+
+### 📌 Currently
+
+- Working as an **SQA Engineer (Full-time)** on government-scale systems
+- Taking on select **QA automation consulting** engagements
+- Studying for **ISTQB Foundation Level** certification
+- Exploring AI-assisted testing and automation tooling
+
+---
+
+### 📫 Let's connect
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://iamzakaria.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakariashagor)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zakariashagorr@gmail.com)
+
+---
+
+<sub>⭐️ Open to remote and contract QA/automation opportunities.</sub>
