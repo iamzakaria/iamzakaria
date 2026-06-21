@@ -41,7 +41,6 @@ I build automation frameworks and quality systems that help teams ship faster wi
 
 - Working as an **SQA Engineer (Full-time)** on government-scale systems
 - Taking on select **QA automation consulting** engagements
-- Studying for **ISTQB Foundation Level** certification
 - Exploring AI-assisted testing and automation tooling
 
 ---
