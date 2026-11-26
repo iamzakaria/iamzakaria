@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 246" width="960" height="246" role="img" aria-labelledby="title description">
-  <title id="title">Zakaria Tahsin</title>
+  <title id="title">MD. Zakaria Shagor</title>
   <desc id="description">Software quality engineering banner with a blue and mint test coverage motif.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1" gradientUnits="objectBoundingBox">
@@ -26,8 +26,8 @@
   <path d="m885 55 4 4 8-9" fill="none" stroke="#102734" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
   <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
     <rect x="46" y="49" width="27" height="4" rx="2" fill="#65f4c4"/>
-    <text x="46" y="82" fill="#93ebd5" font-size="18" font-weight="700" letter-spacing="2.3">SOFTWARE QUALITY ENGINEERING</text>
-    <text x="43" y="147" fill="#f1f7ff" font-size="59" font-weight="750" letter-spacing="-1.8">Zakaria Tahsin</text>
-    <text x="46" y="191" fill="#b7c9de" font-size="21">Test automation · API testing · Release quality</text>
+    <text x="46" y="82" fill="#93ebd5" font-size="18" font-weight="700" letter-spacing="2.3">ENGINEERING · QUALITY · CONSULTANCY</text>
+    <text x="43" y="147" fill="#f1f7ff" font-size="49" font-weight="750" letter-spacing="-1.8">MD. Zakaria Shagor</text>
+    <text x="46" y="191" fill="#b7c9de" font-size="21">Software engineering · QA automation · IT consulting</text>
   </g>
 </svg>
