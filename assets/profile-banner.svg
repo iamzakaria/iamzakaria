@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 246" width="960" height="246" role="img" aria-labelledby="title description">
+  <title id="title">Zakaria Tahsin</title>
+  <desc id="description">Software quality engineering banner with a blue and mint test coverage motif.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#0b1222"/>
+      <stop offset="1" stop-color="#102c3b"/>
+    </linearGradient>
+    <linearGradient id="pulse" x2="1" y2="1">
+      <stop stop-color="#66a9ff"/>
+      <stop offset="1" stop-color="#65f4c4"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0v24" fill="none" stroke="#a5c9f7" stroke-opacity=".13"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="958" height="244" rx="22" fill="url(#bg)" stroke="#29425a" stroke-width="2"/>
+  <rect x="566" y="25" width="360" height="196" rx="16" fill="url(#grid)"/>
+  <path d="M594 174h52l36-39h57l34-42h51l37-38h30" fill="none" stroke="url(#pulse)" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <g fill="#122638" stroke="#76dfd7" stroke-width="2">
+    <circle cx="646" cy="174" r="6"/>
+    <circle cx="739" cy="135" r="6"/>
+    <circle cx="824" cy="93" r="6"/>
+  </g>
+  <circle cx="891" cy="55" r="14" fill="#65f4c4"/>
+  <path d="m885 55 4 4 8-9" fill="none" stroke="#102734" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+    <rect x="46" y="49" width="27" height="4" rx="2" fill="#65f4c4"/>
+    <text x="46" y="82" fill="#93ebd5" font-size="18" font-weight="700" letter-spacing="2.3">SOFTWARE QUALITY ENGINEERING</text>
+    <text x="43" y="147" fill="#f1f7ff" font-size="59" font-weight="750" letter-spacing="-1.8">Zakaria Tahsin</text>
+    <text x="46" y="191" fill="#b7c9de" font-size="21">Test automation · API testing · Release quality</text>
+  </g>
+</svg>
