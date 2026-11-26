@@ -1,8 +1,10 @@
-# ![Zakaria Tahsin | Software Quality Engineering](assets/profile-banner.svg)
+# ![MD. Zakaria Shagor | Software Engineering, Test Engineering & IT Consultancy](assets/profile-banner.svg)
 
-I’m a **software QA engineer** with 5+ years of experience testing web and mobile systems. I build automated checks for critical user journeys, validate what happens behind the UI, and give teams clear evidence to make release decisions.
+I’m **MD. Zakaria Shagor**, a **Junior IT Consultant at the ISO Project, DGHS**, with 6+ years across software engineering, test engineering, and IT consultancy. My current work includes IT planning, infrastructure oversight, and user acceptance testing for public healthcare systems.
 
-[Portfolio](https://iamzakaria.vercel.app) · [LinkedIn](https://linkedin.com/in/zakariashagor) · [Email](mailto:zakariashagorr@gmail.com)
+Previously, I led end-to-end QA on the **EDGE Project**, building Playwright and Pytest automation for critical workflows. I’m especially interested in the point where hands-on testing meets requirements, release decisions, and delivery.
+
+[Portfolio](https://zakaria-me.ai.studio/) · [LinkedIn](https://linkedin.com/in/zakariashagor) · [Email](mailto:zakariashagorr@gmail.com)
 
 ## Featured projects
 
